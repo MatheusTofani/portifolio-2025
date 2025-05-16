@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "skills": "Conhecimentos",
+    "projects": "Projetos"
+  },
+  "title": {
+    "roles": [
+      "Desenvolvedor Front-end",
+      "Web Designer",
+      "Desenvolvedor React"
+    ],
+    "downloadCv": "Baixar CV",
+    "contact": "Entrar em contato"
+  },
+  
+  "projects": {
+    "aimtune": {
+      "title": "Aim Tune",
+      "description": "Um site onde você pode converter sua sensibilidade em diversos jogos diferentes, podendo manter sempre a consistência em sua mira!"
+    },
+    "raku": {
+      "title": "Raku - Culinária Japonesa",
+      "description": "Raku é um projeto sobre culinária japonesa, desenvolvido utilizando JavaScript, Bootstrap e jQuery. A página oferece uma visão geral sobre pratos típicos, com foco em uma interface simples e intuitiva. O uso do Bootstrap garante um design responsivo e o jQuery proporciona uma interatividade dinâmica para a navegação."
+    },
+    "visionaire": {
+      "title": "Visionaire - Landing Page",
+      "description": "A landing page Visionaire foi desenvolvida utilizando JavaScript, SASS e um design criado no Figma. O projeto tem como objetivo apresentar de forma atraente e funcional os serviços da Visionaire, com foco na usabilidade e na estética moderna."
+    }
+  },
+
+
+    "titles": {
+    "projects": "Projetos"
+  },
+  "buttons": {
+    "details": "Ver detalhes",
+    "site": "Site"
+  },
+  "labels": {
+    "date": "Data"
+  },
+   "bio": {
+    "title": "Sobre mim",
+    "description": "Oi, eu sou o Matheus e estou me formando como Desenvolvedor Full-Stack na EBAC. Meu foco principal é melhorar minhas habilidades em Front-End, criando interfaces bonitas, funcionais e fáceis de usar. Gosto de aprender novas tecnologias para deixar meus projetos cada vez melhores. Sou dedicado, trabalho bem em equipe e gosto de desafios que pedem criatividade e eficiência. Prefiro ambientes de trabalho dinâmicos, onde podemos criar soluções práticas."
+  },
+   "skills": {
+    "title": "Habilidades"
+  },
+  "footer": {
+    "developedBy": "Desenvolvido por Matheus Tofani"
+  }
+
+}

@@ -1,0 +1,54 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects"
+  },
+  "title": {
+    "roles": [
+      "Front-end Developer",
+      "Web Designer",
+      "React Developer"
+    ],
+    "downloadCv": "Download CV",
+    "contact": "Contact me"
+  },
+
+  "projects": {
+    "aimtune": {
+      "title": "Aim Tune",
+      "description": "A site where you can convert your sensitivity across different games, keeping your aim consistent!"
+    },
+    "raku": {
+      "title": "Raku - Japanese Cuisine",
+      "description": "Raku is a project about Japanese cuisine, developed using JavaScript, Bootstrap, and jQuery. The page offers an overview of typical dishes with a simple and intuitive interface. Bootstrap ensures responsive design and jQuery provides dynamic interactivity."
+    },
+    "visionaire": {
+      "title": "Visionaire - Landing Page",
+      "description": "The Visionaire landing page was developed using JavaScript, SASS and a design created in Figma. The project aims to attractively and functionally present Visionaire’s services, focusing on usability and modern aesthetics."
+    }
+  },
+
+
+  "titles": {
+    "projects": "Projects"
+  },
+  "buttons": {
+    "details": "See details",
+    "site": "Website"
+  },
+  "labels": {
+    "date": "Date"
+  },
+   "bio": {
+    "title": "About Me",
+    "description": "Hi, I’m Matheus. I’m training to be a Full-Stack Developer at EBAC. Right now, I’m focused on getting better at Front-End, making interfaces that look good and are easy to use. I like learning new tools to improve my projects. I’m hardworking, enjoy working with others, and like challenges that need creativity and smart solutions. I prefer fast-paced workplaces where we can build real results."
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "footer": {
+    "developedBy": "Developed by Matheus Tofani"
+  }
+}

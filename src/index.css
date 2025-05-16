@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background-color: #06070E;
+*{
+  font-family: poppins;
+}
+
+html {
+  scroll-behavior: smooth;
 }
